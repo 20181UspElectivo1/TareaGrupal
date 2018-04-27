@@ -11,6 +11,7 @@
             <input  type="text" placeholder="ingrese un numero" name="dato2">
             <hr>
              <hr>
+             <hr>
             <button >Procesar</button>
         </form>
     </body>
