@@ -6,8 +6,8 @@
     </head>
     <body>
         <div class="cont">
-            <h1>Division</h1>
-            <form action="division.php" method="post">
+            <h1>Multiplicacion</h1>
+            <form action="multiplicacion.php" method="post">
                 <input  type="text" class="campo" placeholder="ingrese un numero" name="dato1">
                 <input  type="text" class="campo" placeholder="ingrese un numero" name="dato2">
                 <br>
