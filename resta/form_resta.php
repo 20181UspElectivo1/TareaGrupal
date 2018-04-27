@@ -12,7 +12,7 @@
             <hr>
              <hr>
              <hr>
-            <button >Procesa</button>
+            <button >Procesar</button>
         </form>
     </body>
 </html>
